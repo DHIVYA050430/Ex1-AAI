@@ -1,5 +1,5 @@
-<H3> Name: Arshitha MS </H3>
-<H3>Register No: 212223240015</H3>
+<H3> Name: DIVYA E </H3>
+<H3>Register No: 212223230050</H3>
 <H3> Experiment 1</H3>
 <H3>DATE:</H3>
 <H1 ALIGN=CENTER> Implementation of Bayesian Networks</H1>
